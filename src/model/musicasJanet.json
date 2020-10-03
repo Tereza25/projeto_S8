@@ -1,0 +1,72 @@
+[
+    {   
+        "id": 1,
+        "Álbum":"Dream Street",
+        "Ano":"1984",
+        "Destaque": "Pretty Boy",
+        "Single": "False"
+    },
+    {   
+        "id": 2,
+        "Álbum":"Control",
+        "Ano":"1986",
+        "Destaque": "Control",
+        "Single": "True"
+    },
+    {   
+        "id": 3,
+        "Álbum":"Rhythm Nation 1814",
+        "Ano":"1989",
+        "Destaque": "Rhythm Nation",
+        "Single": "True"
+    },
+    {   
+        "id": 4,
+        "Álbum":"Janet",
+        "Ano":"1993",
+        "Destaque": "If",
+        "Single": "True"
+    },
+    {   
+        "id": 5,
+        "Álbum":"The velvet rope ",
+        "Ano":"1997",
+        "Destaque": "Velvet rope",
+        "Single": "True"
+    },
+    {   
+        "id": 6,
+        "Álbum":"All for You",
+        "Ano":"2001",
+        "Destaque": "All for you",
+        "Single": "True"
+    },
+    {   
+        "id": 7,
+        "Álbum":"Damita Jo",
+        "Ano":"2004",
+        "Destaque": "All night",
+        "Single": "False"
+    },
+    {   
+        "id": 8,
+        "Álbum":"20 Y.O",
+        "Ano":"2006",
+        "Destaque": "So excited",
+        "Single": "False"
+    },
+    {   
+        "id": 9,
+        "Álbum":"Discipline",
+        "Ano":"2008",
+        "Destaque": "Feedback",
+        "Single": "True"
+    },
+    {   
+        "id": 10,
+        "Álbum":"Unbreakeble",
+        "Ano":"2015",
+        "Destaque": "Unbreakeble",
+        "Single": "True"
+    }
+]
